@@ -1,4 +1,6 @@
 # BREAST-CANCER-CLASSIFICATION
+Breast cancer classifies wether the peraon has chances of breast cancer or not on the basis of symptoms person is experiencing.
+we have worked on 4 different boosting models. 
 
 Boosting Algorithms in Machine Learning 
 ADABOOST
