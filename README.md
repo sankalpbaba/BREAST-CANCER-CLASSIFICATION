@@ -1,6 +1,6 @@
 # BREAST-CANCER-CLASSIFICATION
 
-** Boosting Algorithms in Machine Learning ** 
+Boosting Algorithms in Machine Learning 
 ADABOOST
 Extreme Gradient Boosting Machine (XGBM)
 LightGBM
